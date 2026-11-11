@@ -11,4 +11,4 @@ make build\n./whatsapp-assistant
 ## 📝 License
 MIT License — see [LICENSE](LICENSE) for details.
 ---
-Built with ❤️ by [Madiyar](https://github.com/madiyarmoldakhmet-ai)
+Built with ❤️ by [Madiyar](https://github.com/madiyarmoldakhmet-ai), and Nurmogg
